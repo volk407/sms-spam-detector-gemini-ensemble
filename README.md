@@ -39,6 +39,9 @@ git clone https://github.com/YOUR_USERNAME/sms-spam-detector-gemini-ensemble.git
 cd sms-spam-detector-gemini-ensemble
 pip install -r requirements.txt
 ```
+
+---
+
 ##📊 2. Prepare Dataset
 
 Place your dataset at:
@@ -47,6 +50,9 @@ data/spam.csv
 
 Accepted formats include Kaggle’s SMS Spam Collection v1/v2.
 The script auto-detects label/text columns.
+
+---
+
 ##🧠 3. Train Model
 
 python train_model.py
@@ -54,6 +60,8 @@ python train_model.py
 This will output:
 
 model/spam_calibrated.joblib
+
+---
 
 ##🖥 4. Run App
 
@@ -83,6 +91,8 @@ Gemini outputs:
 Model spam: 87%
 Gemini spam: 92%
 Final result: SPAM (90.1%)
+
+---
 
 ##🧠 Tech Behind It
 Component	Purpose
