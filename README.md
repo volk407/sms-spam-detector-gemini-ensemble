@@ -38,7 +38,7 @@ sms-spam-detector-gemini-ensemble/
 git clone https://github.com/YOUR_USERNAME/sms-spam-detector-gemini-ensemble.git
 cd sms-spam-detector-gemini-ensemble
 pip install -r requirements.txt
-
+```
 ##📊 2. Prepare Dataset
 
 Place your dataset at:
