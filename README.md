@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ---
 
-##📊 2. Prepare Dataset
+## 📊 2. Prepare Dataset
 
 Place your dataset at:
 
@@ -53,7 +53,7 @@ The script auto-detects label/text columns.
 
 ---
 
-##🧠 3. Train Model
+## 🧠 3. Train Model
 
 python train_model.py
 
@@ -61,9 +61,7 @@ This will output:
 
 model/spam_calibrated.joblib
 
----
-
-##🖥 4. Run App
+## 🖥 4. Run App
 
 python main.py
 
@@ -92,9 +90,7 @@ Model spam: 87%
 Gemini spam: 92%
 Final result: SPAM (90.1%)
 
----
-
-##🧠 Tech Behind It
+## 🧠 Tech Behind It
 Component	Purpose
 TF-IDF (1–2 grams)	Robust lexical spam features
 Logistic Regression	High-precision binary classifier
