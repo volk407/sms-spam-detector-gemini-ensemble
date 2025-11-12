@@ -8,7 +8,7 @@ A modern SMS/email spam detector powered by:
 
 ---
 
-## ✅ Team
+## 🤝 Team
 **👤 Name: Moustafa Ahmed Ismail**
 
 📧 Contact: m.ageaaismn@yahoo.com
