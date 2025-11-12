@@ -11,12 +11,16 @@ A modern SMS/email spam detector powered by:
 ## ✅ Team
 - **👤 Name: Moustafa Ahmed Ismail**
 📧 Contact: m.ageaaismn@yahoo.com
+
 🎓 Electrical & Computer Engineering – Constructor University Bremen  
+
 💻 Focus Areas: Cybersecurity, Risk Engineering, Applied AI and User Interface Design
 
 - **👤 Name: Sky**  
 📧 Contact: mashoguliashvili00@gmail.com
-🎓 Electrical & Computer Engineering – Constructor University Bremen  
+
+🎓 Electrical & Computer Engineering – Constructor University Bremen
+
 💻 Focus Areas: Software Engineering, Machine Learning, and User Interface Design
 
 ---
