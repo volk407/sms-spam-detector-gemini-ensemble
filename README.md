@@ -38,8 +38,8 @@ sms-spam-detector-gemini-ensemble/
 git clone https://github.com/YOUR_USERNAME/sms-spam-detector-gemini-ensemble.git
 cd sms-spam-detector-gemini-ensemble
 pip install -r requirements.txt
-```
-📊 2. Prepare Dataset
+
+##📊 2. Prepare Dataset
 
 Place your dataset at:
 
@@ -47,7 +47,7 @@ data/spam.csv
 
 Accepted formats include Kaggle’s SMS Spam Collection v1/v2.
 The script auto-detects label/text columns.
-🧠 3. Train Model
+##🧠 3. Train Model
 
 python train_model.py
 
@@ -55,12 +55,12 @@ This will output:
 
 model/spam_calibrated.joblib
 
-🖥 4. Run App
+##🖥 4. Run App
 
 python main.py
 
 Open the Gradio URL in the browser and test messages.
-🔑 (Optional) Enable Gemini
+#🔑 (Optional) Enable Gemini
 
 Inside the UI:
 
@@ -84,7 +84,7 @@ Model spam: 87%
 Gemini spam: 92%
 Final result: SPAM (90.1%)
 
-🧠 Tech Behind It
+##🧠 Tech Behind It
 Component	Purpose
 TF-IDF (1–2 grams)	Robust lexical spam features
 Logistic Regression	High-precision binary classifier
